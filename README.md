@@ -7,4 +7,4 @@ Clique aqui: [Códigos](https://github.com/Leonardo2745/APP_INVECTOR_PROJECTS/tr
 ## Para ter acesso ao apk dos meus projetos:
 Clique aqui: [Aplicações](https://github.com/Leonardo2745/APP_INVECTOR_PROJECTS/tree/main/Assets) 
 
-Clique aqui para baixar diretamente: [Downloads](https://github.com/Leonardo2745/APP_INVECTOR_PROJECTS/releases/tag/v1.0)
+Clique aqui para baixar diretamente: [Downloads](https://github.com/Leonardo2745/App-Inventor/releases)
